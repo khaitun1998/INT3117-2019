@@ -50,9 +50,9 @@
 3. <b> Kết quả </b>https://hoclieu.vn
 <br><br>
   - 2 Error : HTML [2] <br>
-    - Summary :This element is not recognised<br>
-    - Detail: This error is often raised when an old element has been used when validating against a newer HTML specification. Alternatively you may have misspelled the name.<br>
+     - Summary :This element is not recognised<br>
+     - Detail: This error is often raised when an old element has been used when validating against a newer HTML specification. Alternatively you may have misspelled the name.<br>
   - 1 Warning: WCAG2 A[1]<br>
-    - Summary: [WCAG2 2.4.1 (A)] Use heading elements to convey structure<br>
-    - Detail: Many assistive technologies provide navigation using headings, including skipping navigational links. If your document has any structure you should use heading markup to convey the structure of the content. Even a single header will make it easier for users.<br> 
+      - Summary: [WCAG2 2.4.1 (A)] Use heading elements to convey structure<br>
+     - Detail: Many assistive technologies provide navigation using headings, including skipping navigational links. If your document has any structure you should use heading markup to convey the structure of the content. Even a single header will make it easier for users.<br> 
     See https://www.w3.org/TR/WCAG20-TECHS/H69.html (displayed in new window).<br>
