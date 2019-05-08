@@ -1,4 +1,4 @@
-<b> <i> *** Total Validator - Accessibility testing ***</i/b>
+<b> <i> *** Total Validator - Accessibility testing ***</i> </b>
 <br>
 1. <b> Total Validator Tool </b> <br>
   - Total Validator Tool một chương trình được phát triển bởi Total Validator.. Các chương trình  thực thi chính là TotalValidator.exe . Trình cài đặt phần mềm bao gồm 6 tập tin và thường là khoảng 13,87 MB (14.542.955 byte). Hầu hết các máy tính đang chạy hệ điều hành Windows 7 (SP1) cũng như Windows 10. Trong khi khoảng 35% người sử dụng của Total Validator Tool đến từ Hoa Kỳ, nó cũng rất phổ biến ở Đức và Anh.
